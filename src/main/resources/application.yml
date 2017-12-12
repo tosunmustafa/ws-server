@@ -1,0 +1,5 @@
+logging:
+  file: /var/log/ws-server.log
+  level:
+    com.springframework.ws: DEBUG
+    com.mustafatosun: INFO
